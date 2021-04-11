@@ -1,6 +1,6 @@
 # on-social-media
 
-track your activity on social media
+Track your activity on social media
 
 
 ## Installation and usage
@@ -14,6 +14,18 @@ cd on-social-media
 npm i
 
 npm start
+```
+
+## How it works
+Add your ids to config file in ```./confg/ids.json```
+
+For profile details (for example on virgool)
+```http
+localhost:3000/virgool/
+```
+For activity details (for example on virgool)
+```http
+localhost:3000/virgool/activity
 ```
 
 ## Roadmap
