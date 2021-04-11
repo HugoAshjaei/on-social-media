@@ -21,11 +21,11 @@ Add your ids to config file in ```./confg/ids.json```
 
 For profile details (for example on virgool)
 ```http
-localhost:3000/virgool/
+localhost:3000/api/virgool/
 ```
 For activity details (for example on virgool)
 ```http
-localhost:3000/virgool/activity
+localhost:3000/api/virgool/activity
 ```
 
 ## Roadmap
