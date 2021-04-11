@@ -17,7 +17,7 @@ npm start
 ```
 
 ## Roadmap
-[x] Virgool
+- [x] Finish my changes
 [ ] Virgool
 [ ] Virgool
 [ ] Virgool
