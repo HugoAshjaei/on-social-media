@@ -17,11 +17,14 @@ npm start
 ```
 
 ## Roadmap
-- [x] Finish my changes
-[ ] Virgool
-[ ] Virgool
-[ ] Virgool
-[ ] Virgool
+- [x] virgool
+- [ ] instagram
+- [ ] telegram
+- [ ] linkedin
+- [ ] twitter
+- [ ] medium
+- [ ] facebook
+- [ ] github
 
 ## License
 [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
