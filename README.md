@@ -29,7 +29,7 @@ localhost:3000/virgool/activity
 ```
 
 ## Roadmap
-- [x] virgool
+- [x] virgool (scrape data)
 - [ ] instagram
 - [ ] telegram
 - [ ] linkedin
