@@ -39,4 +39,4 @@ localhost:3000/virgool/activity
 - [ ] github
 
 ## License
-[GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[GNU](https://github.com/HosseinDotLink/on-social-media/blob/main/LICENSE)
