@@ -7,8 +7,8 @@ const app = express();
 
 // Routes
 app.use(`/api/virgool`, require(`./routes/api/virgool`));
-// TODO instagram
-// TODO telegram
+// app.use(`/api/instagram`, require(`./routes/api/instagram`));
+app.use(`/api/telegram`, require(`./routes/api/telegram`));
 // TODO linkedin
 // TODO twitter
 // TODO medium

@@ -27,11 +27,16 @@ For activity details (for example on virgool)
 ```http
 localhost:3000/api/virgool/activity
 ```
+## Available routes
+- Virgool
+- - /     : get user detail
+- - /activity    : get user activity
+- Telegram
+- - /     : get user detail
 
 ## Roadmap
 - [x] virgool (scrape data)
-- [ ] instagram
-- [ ] telegram
+- [x] telegram
 - [ ] linkedin
 - [ ] twitter
 - [ ] medium
